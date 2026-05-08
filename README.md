@@ -9,7 +9,7 @@ This project simulates a real-world analytics engineering workflow by building a
 # Live Dashboard
 
 👉 **Power BI Dashboard:**  
-https://app.powerbi.com/your-dashboard-link
+https://app.powerbi.com/view?r=eyJrIjoiNTA3ODViZjYtNWY4Ny00ZmUxLTlkZDQtZWUwNzczMDBkMGE3IiwidCI6ImE4MjE2YzFlLTRkNjMtNDM1Mi04YzNiLTUwZmExZjE0NzViMSIsImMiOjZ9
 
 ---
 
