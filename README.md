@@ -38,7 +38,7 @@ Power BI Dashboard
 # Key Features
 
 - Automated ELT pipeline using Python and SQL
-- Multi-platform ad data ingestion (Meta, Google, TikTok, LinkedIn)
+- Multi-platform ad data ingestion (Meta, TikTok)
 - SQL-based KPI calculations:
   - CTR
   - CPC
