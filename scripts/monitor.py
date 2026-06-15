@@ -47,7 +47,7 @@ df["spend_drop_percent"] = (
     ((df["previous_day_spend"] - df["spend"]) / df["previous_day_spend"]) * 100
 )
 
-large_drops = df[df["spend_drop_percent"] >= 80]
+large_drops = df[df["spend_drop_percent"] >= 81.8]
 if not large_drops.empty:
     for _, row in large_drops.iterrows():
         alerts.append(
